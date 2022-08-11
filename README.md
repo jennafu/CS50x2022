@@ -8,3 +8,6 @@ CS50x2022 Notes &amp; Solutions
 **Week 2: Array**
 - <a href="https://cs50.harvard.edu/x/2022/psets/2/readability/">Readability</a>: Write a C program that takes a text and determines its reading level, based on the Coleman-Liau index.
 - <a href="https://cs50.harvard.edu/x/2022/psets/2/substitution/">Substitution</a>: Write a C program that enables user to encrypt messages using a substitution cipher.
+
+**Week 3: Algorithms**
+- <a href="https://cs50.harvard.edu/x/2022/psets/3/plurality/">Readability</a>: Write a C program that runs a plurality election and generates the election winner/s.
