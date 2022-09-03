@@ -11,3 +11,6 @@ CS50x2022 Notes &amp; Solutions
 
 **Week 3: Algorithms**
 - <a href="https://cs50.harvard.edu/x/2022/psets/3/plurality/">Readability</a>: Write a C program that runs a plurality election and generates the election winner/s.
+
+**Week 4: Memory**
+- <a href="https://cs50.harvard.edu/x/2022/psets/3/plurality/">Filter</a>: Write a C program that applied four filters to different images.
